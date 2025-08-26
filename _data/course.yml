@@ -1,3 +1,3 @@
-title: Course-in-a-Box
-description: An open-source project for creating online courses, built by <a href="https://www.p2pu.org">P2PU</a>
-modules: ["setup", "content", "customize"]
+title: Architectural Visualization 101
+description: A comprehensive course introducing students to architectural visualization methods through computational design, covering modeling, rendering, and fabrication workflows.
+modules: ["course", "tutorials", "resources"]
