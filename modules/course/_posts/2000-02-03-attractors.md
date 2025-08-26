@@ -1,7 +1,7 @@
 ---
 layout: course_page
 title: Assignment 2.2 — Attractors (Single → Multiple)
-published: true
+published: false
 ---
 
 ## Assignment 2.2 — Attractors (Single → Multiple)

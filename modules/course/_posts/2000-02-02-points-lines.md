@@ -1,7 +1,7 @@
 ---
 layout: course_page
 title: Assignment 2.1 — Points & Lines
-published: true
+published: false
 ---
 
 ## Assignment 2.1 — Points & Lines

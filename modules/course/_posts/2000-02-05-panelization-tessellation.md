@@ -1,7 +1,7 @@
 ---
 layout: course_page
 title: Assignment 2.4 — Panelization → Dual Mesh → Tessellation
-published: true
+published: false
 ---
 
 ## Assignment 2.4 — Panelization → Dual Mesh → Tessellation

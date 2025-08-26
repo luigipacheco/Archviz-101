@@ -1,7 +1,7 @@
 ---
 layout: course_page
 title: Assignment 2.3 — Attractors → Panelization (Sound Panel Exercise)
-published: true
+published: false
 ---
 
 ## Assignment 2.3 — Attractors → Panelization (Sound Panel Exercise)

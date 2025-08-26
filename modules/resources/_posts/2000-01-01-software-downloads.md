@@ -34,14 +34,6 @@ published: true
 4. Install Geometry Nodes (included by default)
 5. Test with sample project
 
-
-**Installation Steps**:
-1. Create SideFX account
-2. Download Houdini Apprentice (free learning version)
-3. Install with default settings
-4. Activate license
-5. Explore interface and tutorials
-
 ## Free Alternatives
 
 ### SketchUp
@@ -54,27 +46,6 @@ published: true
 - **Features**: Parametric modeling, architectural workbench
 - **Community**: Active open-source development
 
-### OpenSCAD
-- **Download**: [openscad.org](https://www.openscad.org/)
-- **Features**: Programmatic 3D modeling
-- **Learning Curve**: Requires programming knowledge
-
-## Rendering Software
-
-### V-Ray
-- **Download**: [chaos.com](https://www.chaos.com/vray)
-- **Integration**: Rhino, SketchUp, 3ds Max
-- **Cost**: $470/year (educational pricing available)
-
-### Enscape
-- **Download**: [enscape3d.com](https://enscape3d.com/)
-- **Integration**: Revit, SketchUp, Rhino, ArchiCAD
-- **Cost**: $47/month (educational discounts)
-
-### Twinmotion
-- **Download**: [twinmotion.com](https://www.twinmotion.com/)
-- **Integration**: Revit, SketchUp, Rhino, ArchiCAD
-- **Cost**: Free for educational use
 
 ## Creative Coding Tools
 
@@ -92,6 +63,66 @@ published: true
 - **Download**: [derivative.ca](https://derivative.ca/)
 - **Cost**: $1,995 (educational licenses available)
 - **Features**: Node-based visual programming
+
+## 2D Graphics Software
+
+### Adobe Illustrator
+**Description**: Industry-standard vector graphics software for diagrams and technical drawings
+**Download**: [adobe.com/illustrator](https://www.adobe.com/products/illustrator.html)
+**Cost**: $20.99/month (Creative Cloud subscription, educational discounts available)
+**System Requirements**: Windows 10+, macOS 10.15+
+
+**Installation Steps**:
+1. Create Adobe Creative Cloud account
+2. Download Creative Cloud app
+3. Install Illustrator through Creative Cloud
+4. Verify with student email for educational pricing
+5. Test with sample vector file
+
+### Adobe Photoshop
+**Description**: Professional raster graphics editor for image processing and post-production
+**Download**: [adobe.com/photoshop](https://www.adobe.com/products/photoshop.html)
+**Cost**: $20.99/month (Creative Cloud subscription, educational discounts available)
+**System Requirements**: Windows 10+, macOS 10.15+
+
+**Installation Steps**:
+1. Create Adobe Creative Cloud account
+2. Download Creative Cloud app
+3. Install Photoshop through Creative Cloud
+4. Verify with student email for educational pricing
+5. Test with sample image file
+
+### Inkscape
+**Description**: Free, open-source vector graphics editor (Illustrator alternative)
+**Download**: [inkscape.org](https://inkscape.org/release/)
+**Cost**: Free
+**System Requirements**: Windows 7+, macOS 10.13+, Linux
+
+**Installation Steps**:
+1. Download appropriate version for your OS
+2. Run installer and follow prompts
+3. Launch Inkscape and explore interface
+4. Install additional extensions if needed
+5. Test with sample SVG file
+
+### GIMP
+**Description**: Free, open-source raster graphics editor (Photoshop alternative)
+**Download**: [gimp.org](https://www.gimp.org/downloads/)
+**Cost**: Free
+**System Requirements**: Windows 7+, macOS 10.12+, Linux
+
+**Installation Steps**:
+1. Download appropriate version for your OS
+2. Run installer and follow prompts
+3. Launch GIMP and explore interface
+4. Install additional plugins if needed
+5. Test with sample image file
+
+### Free Alternatives Summary
+- **Vector Graphics**: Inkscape (free) vs. Illustrator ($20.99/month)
+- **Raster Graphics**: GIMP (free) vs. Photoshop ($20.99/month)
+- **Educational Pricing**: Adobe offers significant discounts for students
+- **Learning Curve**: Free alternatives may require more time to learn
 
 ## Installation Tips
 
@@ -117,9 +148,8 @@ published: true
 
 1. **Choose Primary Software**: Start with Rhino or Blender
 2. **Install Core Tools**: Get comfortable with basic operations
-3. **Add Rendering**: Install V-Ray or Enscape
-4. **Explore Extensions**: Add Grasshopper or Geometry Nodes
-5. **Practice Regularly**: Use sample files and tutorials
+3. **Explore Extensions**: Add Grasshopper or Geometry Nodes
+4. **Practice Regularly**: Use sample files and tutorials
 
 ## Support Resources
 

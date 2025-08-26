@@ -1,7 +1,7 @@
 ---
 layout: course_page
 title: Assignment 1.2 — Module & Repetition (Anatomy of a Model)
-published: true
+published: false
 ---
 
 ## Assignment 1.2 — Module & Repetition (Anatomy of a Model)

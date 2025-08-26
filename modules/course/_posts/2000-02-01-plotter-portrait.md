@@ -1,7 +1,7 @@
 ---
 layout: course_page
 title: Assignment 2.0 — Plotter Portrait: Lists → Lines → Toolpaths
-published: true
+published: false
 ---
 
 ## Assignment 2.0 — Plotter Portrait: Lists → Lines → Toolpaths
