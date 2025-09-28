@@ -80,9 +80,9 @@ A 3D print of the final massing (report manifoldness).
 ### Suggested Tutorials
 
 #### Blender
-- Blender Boolean Modeling Basics
-- Creating Axonometric Views
-- Exporting SVG from Blender
+- Blender Boolean Modifier / Bool tool
+- Creating /Isometric Views
+- Exporting 2D SVG  (Grease pencil or Freestyle) from Blender
 
 #### Rhino
 - CSG Operations in Rhino
